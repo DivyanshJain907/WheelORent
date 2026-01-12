@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wheel-o-Rent
 
 **Wheel-o-Rent** is a full-stack MERN application for short-term rentals of two- and four-wheelers. It offers real-time availability, simple booking, and role-based access control for students, admins, and vehicle owners. Designed for affordability and a seamless user experience.
@@ -108,4 +107,3 @@ Dhruv, Divyansh Jain, Akshat Awasthi, Parth Azad
 =======
 for previw design click here
 https://www.figma.com/design/MVNvuU6XBXPGlaCdhtFyrS/rambharose?node-id=0-1&t=iNW7s7aYe0aLNykV-1
->>>>>>> 20e6c3ac691017066c98ce4d1037ef310dc9c323
