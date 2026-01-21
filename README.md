@@ -1,5 +1,4 @@
 # Wheel-o-Rent
-
 **Wheel-o-Rent** is a full-stack MERN application for short-term rentals of two- and four-wheelers. It offers real-time availability, simple booking, and role-based access control for students, admins, and vehicle owners. Designed for affordability and a seamless user experience.
 
 🔗 **Live Demo:** [wheel-o-rent.vercel.app](https://wheel-o-rent.vercel.app)  
